@@ -1,0 +1,6 @@
+首页：导航栏+二级导航+内容
+导航栏：Imageview+TopTabControl+Button+Button
+二级导航：TopTabControl(需改变cell内容和布局方向)
+直播内容：自定义collectioncell
+点播内容：按照之前内容适配好即可
+应用：自定义collectioncell
